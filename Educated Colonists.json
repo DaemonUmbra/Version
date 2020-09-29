@@ -1,0 +1,10 @@
+{
+    "homepage" : "https://daemonumbra.dev",
+    "promos": {
+        "1.16.3-latest" : "1.16.3-0.1.0",
+        "1.16.3-recommended" : "1.16.3-0.1.0"
+    },
+    "1.16.3": {
+        "1.16.3-0.1.0" : "Initial Dev Version.\nNot an actual release but listed for version json testing."
+    }
+}
