@@ -1,0 +1,14 @@
+{
+    "homepage" : "https://daemonumbra.dev",
+    "promos": {
+        "1.12.2-latest": "1.12.2-2.0.0.2",
+        "1.12.2-recommended": "1.12.2-2.0.0.2",
+        "1.16.4-latest": "",
+        "1.16.4-recommended": ""
+    },
+    "1.12.2": {
+        "1.12.2-2.0.0.2" : "Final version for 1.12.2"
+    },
+    "1.16.4": {
+    }
+}
